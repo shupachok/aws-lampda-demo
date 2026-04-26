@@ -1,6 +1,6 @@
 # Serverless US Stock Analysis & Alert System
 
-An event-driven serverless application built with **Java 17** and **AWS Lambda** that automatically analyzes US stock fundamentals and sends real-time alerts via **LINE Messaging API**.
+An event-driven serverless application built with **Java 21** and **AWS Lambda** that automatically analyzes US stock fundamentals and sends real-time alerts via **LINE Messaging API**.
 
 ## Overview
 
